@@ -25,6 +25,10 @@ svg {
   margin-bottom: 50px;
 }
 
+a {
+  align-self: flex-start;
+}
+
 .wrapper {
   padding: 20px;
   max-width: 350px;
